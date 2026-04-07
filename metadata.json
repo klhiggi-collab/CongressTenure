@@ -1,0 +1,5 @@
+{
+  "name": "Congress Tenure Tracker",
+  "description": "A comprehensive dashboard for tracking US Congressional service lengths, featuring a term-limit simulator, party comparisons, and vacancy audits.",
+  "requestFramePermissions": []
+}

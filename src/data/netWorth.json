@@ -1,0 +1,3532 @@
+{
+  "A000055": {
+    "current": 2000000,
+    "baseline": 400000,
+    "baselineYear": 1997
+  },
+  "A000148": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "A000369": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "A000370": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2014
+  },
+  "A000371": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2014
+  },
+  "A000372": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2014
+  },
+  "A000373": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "A000374": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "A000375": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2016
+  },
+  "A000376": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "A000377": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "A000378": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "A000379": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "A000380": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "A000381": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "A000382": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "A000383": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "A000384": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "B000490": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1992
+  },
+  "B000574": {
+    "current": 8000000,
+    "baseline": 2000000,
+    "baselineYear": 1996
+  },
+  "B000668": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "B000740": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "B000825": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "B001230": {
+    "current": 1200000,
+    "baseline": 300000,
+    "baselineYear": 1999
+  },
+  "B001236": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2001
+  },
+  "B001243": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2002
+  },
+  "B001248": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2003
+  },
+  "B001257": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2006
+  },
+  "B001260": {
+    "current": 115000000,
+    "baseline": 80000000,
+    "baselineYear": 2006
+  },
+  "B001261": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2007
+  },
+  "B001267": {
+    "current": 15000000,
+    "baseline": 5000000,
+    "baselineYear": 2009
+  },
+  "B001271": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "B001277": {
+    "current": 85000000,
+    "baseline": 60000000,
+    "baselineYear": 2010
+  },
+  "B001278": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2012
+  },
+  "B001281": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "B001282": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2012
+  },
+  "B001285": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "B001287": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2013
+  },
+  "B001288": {
+    "current": 1000000,
+    "baseline": 500000,
+    "baselineYear": 2013
+  },
+  "B001291": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2014
+  },
+  "B001292": {
+    "current": 125000000,
+    "baseline": 80000000,
+    "baselineYear": 2014
+  },
+  "B001295": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2014
+  },
+  "B001296": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2014
+  },
+  "B001298": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2016
+  },
+  "B001299": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2016
+  },
+  "B001300": {
+    "current": 500000,
+    "baseline": 50000,
+    "baselineYear": 2016
+  },
+  "B001301": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2016
+  },
+  "B001302": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2017
+  },
+  "B001303": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2016
+  },
+  "B001305": {
+    "current": 60000000,
+    "baseline": 40000000,
+    "baselineYear": 2018
+  },
+  "B001306": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "B001307": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "B001308": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "B001309": {
+    "current": 500000,
+    "baseline": 50000,
+    "baselineYear": 2020
+  },
+  "B001311": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2019
+  },
+  "B001313": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "B001314": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "B001315": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "B001316": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "B001317": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "B001318": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "B001319": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "B001320": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "B001321": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "B001322": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "B001323": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "B001324": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "B001325": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1996
+  },
+  "B001326": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "B001327": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "B001328": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "B001329": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "B001330": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "C000059": {
+    "current": 20000000,
+    "baseline": 2000000,
+    "baselineYear": 2004
+  },
+  "C000127": {
+    "current": 15000000,
+    "baseline": 2000000,
+    "baselineYear": 1993
+  },
+  "C000141": {
+    "current": 2000000,
+    "baseline": 500000,
+    "baselineYear": 1987
+  },
+  "C000174": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1983
+  },
+  "C000537": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1992
+  },
+  "C000880": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2004
+  },
+  "C001035": {
+    "current": 6000000,
+    "baseline": 1000000,
+    "baselineYear": 1997
+  },
+  "C001039": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "C001047": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2001
+  },
+  "C001051": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2003
+  },
+  "C001053": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2003
+  },
+  "C001055": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2004
+  },
+  "C001056": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2002
+  },
+  "C001059": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2005
+  },
+  "C001061": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2005
+  },
+  "C001063": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2005
+  },
+  "C001066": {
+    "current": 1500000,
+    "baseline": 300000,
+    "baselineYear": 2007
+  },
+  "C001067": {
+    "current": 500000,
+    "baseline": 100000,
+    "baselineYear": 2007
+  },
+  "C001068": {
+    "current": 15000000,
+    "baseline": 5000000,
+    "baselineYear": 2006
+  },
+  "C001069": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2007
+  },
+  "C001070": {
+    "current": 1500000,
+    "baseline": 400000,
+    "baselineYear": 2007
+  },
+  "C001072": {
+    "current": 500000,
+    "baseline": 100000,
+    "baselineYear": 2008
+  },
+  "C001075": {
+    "current": 10000000,
+    "baseline": 2000000,
+    "baselineYear": 2009
+  },
+  "C001078": {
+    "current": 1500000,
+    "baseline": 300000,
+    "baselineYear": 2009
+  },
+  "C001080": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2009
+  },
+  "C001087": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "C001088": {
+    "current": 10000000,
+    "baseline": 5000000,
+    "baselineYear": 2010
+  },
+  "C001090": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "C001091": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "C001095": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "C001096": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "C001097": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "C001098": {
+    "current": 4000000,
+    "baseline": 1000000,
+    "baselineYear": 2012
+  },
+  "C001101": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2013
+  },
+  "C001103": {
+    "current": 15000000,
+    "baseline": 5000000,
+    "baselineYear": 2014
+  },
+  "C001104": {
+    "current": 10000000,
+    "baseline": 2000000,
+    "baselineYear": 1992
+  },
+  "C001105": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2016
+  },
+  "C001108": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2016
+  },
+  "C001110": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "C001112": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "C001113": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2017
+  },
+  "C001114": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2017
+  },
+  "C001115": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "C001116": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "C001117": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2018
+  },
+  "C001118": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2019
+  },
+  "C001119": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2019
+  },
+  "C001120": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "C001121": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2019
+  },
+  "C001123": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "C001124": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "C001125": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "C001126": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "C001127": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "C001129": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "C001130": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "C001131": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "C001132": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "C001133": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "C001134": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "C001135": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "C001136": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "C001137": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "C001138": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "C001139": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "C001140": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "C001141": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "C001142": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "C001143": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "C001144": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "D000032": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "D000096": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1996
+  },
+  "D000197": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 1996
+  },
+  "D000216": {
+    "current": 10000000,
+    "baseline": 2000000,
+    "baselineYear": 1990
+  },
+  "D000230": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "D000399": {
+    "current": 12000000,
+    "baseline": 2000000,
+    "baselineYear": 1995
+  },
+  "D000530": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "D000563": {
+    "current": 1500000,
+    "baseline": 300000,
+    "baselineYear": 1983
+  },
+  "D000594": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "D000600": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2004
+  },
+  "D000616": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "D000617": {
+    "current": 75000000,
+    "baseline": 50000000,
+    "baselineYear": 2012
+  },
+  "D000618": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2015
+  },
+  "D000622": {
+    "current": 1200000,
+    "baseline": 300000,
+    "baselineYear": 2013
+  },
+  "D000623": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2015
+  },
+  "D000624": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2014
+  },
+  "D000626": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2014
+  },
+  "D000628": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2017
+  },
+  "D000629": {
+    "current": 500000,
+    "baseline": 50000,
+    "baselineYear": 2018
+  },
+  "D000631": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "D000632": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "D000633": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "D000634": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "D000635": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "D000636": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "D000637": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "D000638": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "D000639": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "D000640": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "D000641": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "E000071": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "E000215": {
+    "current": 10000000,
+    "baseline": 2000000,
+    "baselineYear": 1993
+  },
+  "E000235": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "E000236": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "E000237": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "E000238": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "E000239": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "E000240": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "E000241": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "E000242": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "E000246": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "E000294": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2015
+  },
+  "E000295": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2015
+  },
+  "E000296": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2016
+  },
+  "E000297": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2016
+  },
+  "E000298": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2017
+  },
+  "E000299": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "E000300": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "E000301": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "F000062": {
+    "current": 50000000,
+    "baseline": 10000000,
+    "baselineYear": 1992
+  },
+  "F000110": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2004
+  },
+  "F000246": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "F000446": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "F000450": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2005
+  },
+  "F000454": {
+    "current": 15000000,
+    "baseline": 5000000,
+    "baselineYear": 2007
+  },
+  "F000459": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "F000462": {
+    "current": 15000000,
+    "baseline": 5000000,
+    "baselineYear": 2013
+  },
+  "F000463": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "F000465": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2016
+  },
+  "F000466": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2016
+  },
+  "F000468": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2018
+  },
+  "F000469": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2019
+  },
+  "F000470": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "F000471": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "F000472": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "F000473": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "F000474": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "F000475": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "F000476": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "F000477": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "F000478": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "F000479": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "F000480": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "F000481": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "F000482": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "F000483": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "F000484": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "G000359": {
+    "current": 40000000,
+    "baseline": 20000000,
+    "baselineYear": 2002
+  },
+  "G000377": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "G000386": {
+    "current": 3000000,
+    "baseline": 500000,
+    "baselineYear": 1959
+  },
+  "G000546": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2001
+  },
+  "G000551": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2002
+  },
+  "G000553": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2005
+  },
+  "G000555": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2009
+  },
+  "G000558": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2008
+  },
+  "G000559": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2009
+  },
+  "G000565": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "G000566": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 1996
+  },
+  "G000568": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "G000574": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2014
+  },
+  "G000576": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2014
+  },
+  "G000577": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2014
+  },
+  "G000578": {
+    "current": 500000,
+    "baseline": 100000,
+    "baselineYear": 2016
+  },
+  "G000579": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2016
+  },
+  "G000581": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2016
+  },
+  "G000583": {
+    "current": 45000000,
+    "baseline": 20000000,
+    "baselineYear": 2016
+  },
+  "G000585": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2017
+  },
+  "G000586": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2019
+  },
+  "G000587": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2019
+  },
+  "G000588": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "G000589": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2019
+  },
+  "G000590": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "G000591": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "G000592": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2019
+  },
+  "G000593": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "G000594": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "G000595": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "G000596": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "G000597": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "G000598": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "G000599": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "G000600": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "G000601": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "G000602": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "G000603": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "G000604": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "G000605": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "G000606": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "H000273": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "H000601": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "H000874": {
+    "current": 2000000,
+    "baseline": 500000,
+    "baselineYear": 1981
+  },
+  "H001042": {
+    "current": 1500000,
+    "baseline": 400000,
+    "baselineYear": 2007
+  },
+  "H001046": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2009
+  },
+  "H001047": {
+    "current": 25000000,
+    "baseline": 10000000,
+    "baselineYear": 2009
+  },
+  "H001052": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2011
+  },
+  "H001058": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2010
+  },
+  "H001061": {
+    "current": 45000000,
+    "baseline": 20000000,
+    "baselineYear": 2010
+  },
+  "H001066": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "H001067": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2012
+  },
+  "H001068": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "H001072": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2015
+  },
+  "H001076": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2017
+  },
+  "H001077": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2017
+  },
+  "H001079": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2017
+  },
+  "H001081": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "H001082": {
+    "current": 25000000,
+    "baseline": 10000000,
+    "baselineYear": 2018
+  },
+  "H001084": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "H001085": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2018
+  },
+  "H001086": {
+    "current": 75000000,
+    "baseline": 50000000,
+    "baselineYear": 2020
+  },
+  "H001088": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "H001089": {
+    "current": 1200000,
+    "baseline": 500000,
+    "baselineYear": 2018
+  },
+  "H001090": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "H001091": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "H001092": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "H001093": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "H001094": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "H001095": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "H001096": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "H001097": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "H001098": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "H001099": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "H001100": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "H001101": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "H001102": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "H001103": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "H001104": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "I000056": {
+    "current": 250000000,
+    "baseline": 160000000,
+    "baselineYear": 2000
+  },
+  "I000058": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "I000059": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "I000060": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "I000061": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "I000062": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "I000063": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "I000064": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "J000032": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1994
+  },
+  "J000288": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2007
+  },
+  "J000289": {
+    "current": 500000,
+    "baseline": 100000,
+    "baselineYear": 2006
+  },
+  "J000292": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "J000293": {
+    "current": 40000000,
+    "baseline": 15000000,
+    "baselineYear": 2010
+  },
+  "J000294": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2012
+  },
+  "J000295": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2012
+  },
+  "J000298": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2017
+  },
+  "J000299": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "J000301": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2019
+  },
+  "J000302": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2018
+  },
+  "J000303": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2017
+  },
+  "J000304": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "J000305": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "J000306": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "J000307": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "J000308": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "J000309": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "J000310": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "J000311": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "J000312": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "J000313": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "J000314": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "K000009": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1982
+  },
+  "K000367": {
+    "current": 1200000,
+    "baseline": 300000,
+    "baselineYear": 2007
+  },
+  "K000375": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "K000376": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "K000377": {
+    "current": 30000000,
+    "baseline": 15000000,
+    "baselineYear": 2020
+  },
+  "K000380": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "K000381": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "K000382": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2013
+  },
+  "K000383": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "K000384": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "K000385": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "K000388": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2015
+  },
+  "K000389": {
+    "current": 50000000,
+    "baseline": 25000000,
+    "baselineYear": 2016
+  },
+  "K000391": {
+    "current": 25000000,
+    "baseline": 10000000,
+    "baselineYear": 2016
+  },
+  "K000392": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "K000393": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "K000394": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "K000395": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "K000396": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "K000397": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "K000398": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "K000399": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "K000400": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "K000401": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "K000402": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "K000403": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "K000404": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "K000405": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "K000406": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "L000174": {
+    "current": 2500000,
+    "baseline": 500000,
+    "baselineYear": 1975
+  },
+  "L000273": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "L000397": {
+    "current": 8000000,
+    "baseline": 1500000,
+    "baselineYear": 1995
+  },
+  "L000491": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2004
+  },
+  "L000551": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1998
+  },
+  "L000557": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1998
+  },
+  "L000560": {
+    "current": 1200000,
+    "baseline": 250000,
+    "baselineYear": 2001
+  },
+  "L000562": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2004
+  },
+  "L000564": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2006
+  },
+  "L000566": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2007
+  },
+  "L000569": {
+    "current": 15000000,
+    "baseline": 5000000,
+    "baselineYear": 2008
+  },
+  "L000570": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2009
+  },
+  "L000571": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2009
+  },
+  "L000575": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "L000577": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "L000578": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "L000582": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2015
+  },
+  "L000583": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2014
+  },
+  "L000585": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2015
+  },
+  "L000589": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2014
+  },
+  "L000590": {
+    "current": 15000000,
+    "baseline": 5000000,
+    "baselineYear": 2018
+  },
+  "L000592": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "L000593": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2019
+  },
+  "L000595": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "L000596": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "L000597": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "L000598": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "L000599": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "L000600": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "L000601": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "L000602": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "L000603": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "L000604": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "L000606": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "L000607": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "M000133": {
+    "current": 2000000,
+    "baseline": 200000,
+    "baselineYear": 2004
+  },
+  "M000194": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "M000312": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2004
+  },
+  "M000317": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "M000355": {
+    "current": 35000000,
+    "baseline": 3000000,
+    "baselineYear": 1985
+  },
+  "M000639": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1993
+  },
+  "M000687": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2004
+  },
+  "M000871": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "M000934": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1997
+  },
+  "M001111": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1995
+  },
+  "M001136": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "M001137": {
+    "current": 1500000,
+    "baseline": 300000,
+    "baselineYear": 1997
+  },
+  "M001143": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2000
+  },
+  "M001153": {
+    "current": 2000000,
+    "baseline": 500000,
+    "baselineYear": 2002
+  },
+  "M001156": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2005
+  },
+  "M001157": {
+    "current": 125000000,
+    "baseline": 12000000,
+    "baselineYear": 2004
+  },
+  "M001159": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2005
+  },
+  "M001160": {
+    "current": 500000,
+    "baseline": 50000,
+    "baselineYear": 2004
+  },
+  "M001163": {
+    "current": 15000000,
+    "baseline": 5000000,
+    "baselineYear": 2005
+  },
+  "M001169": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2007
+  },
+  "M001176": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2009
+  },
+  "M001177": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2009
+  },
+  "M001183": {
+    "current": 10000000,
+    "baseline": 2000000,
+    "baselineYear": 2010
+  },
+  "M001184": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2012
+  },
+  "M001188": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "M001194": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2015
+  },
+  "M001196": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2014
+  },
+  "M001198": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2017
+  },
+  "M001199": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2017
+  },
+  "M001204": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "M001205": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "M001206": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "M001207": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "M001208": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "M001210": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2019
+  },
+  "M001211": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "M001212": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "M001213": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "M001214": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "M001215": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "M001216": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "M001217": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "M001218": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "M001219": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "M001220": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "M001221": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "M001222": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "M001223": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "M001224": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "M001225": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "M001226": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "M001227": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "M001228": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "M001229": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2024
+  },
+  "M001230": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "M001231": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "M001232": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "M001233": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "M001234": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "M001235": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "M001236": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "M001237": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "M001238": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "M001239": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "M001240": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "M001241": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "M001242": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "M001243": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "M001244": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "M001245": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2026
+  },
+  "N000002": {
+    "current": 2000000,
+    "baseline": 500000,
+    "baselineYear": 1992
+  },
+  "N000015": {
+    "current": 3000000,
+    "baseline": 500000,
+    "baselineYear": 2004
+  },
+  "N000026": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "N000147": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1990
+  },
+  "N000179": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1998
+  },
+  "N000181": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1988
+  },
+  "N000188": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2014
+  },
+  "N000189": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2014
+  },
+  "N000190": {
+    "current": 15000000,
+    "baseline": 5000000,
+    "baselineYear": 2017
+  },
+  "N000191": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2019
+  },
+  "N000192": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "N000193": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "N000194": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "N000195": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "N000196": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "N000197": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "N000198": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "N000199": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "N000200": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "N000201": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "O000019": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "O000020": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "O000021": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "O000022": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "O000023": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "O000024": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "O000025": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "O000086": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "O000172": {
+    "current": 200000,
+    "baseline": 15000,
+    "baselineYear": 2018
+  },
+  "O000173": {
+    "current": 500000,
+    "baseline": 50000,
+    "baselineYear": 2018
+  },
+  "O000174": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2021
+  },
+  "O000175": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "O000176": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "O000177": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "P000034": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 1987
+  },
+  "P000048": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "P000145": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "P000197": {
+    "current": 115000000,
+    "baseline": 30000000,
+    "baselineYear": 1987
+  },
+  "P000595": {
+    "current": 1500000,
+    "baseline": 400000,
+    "baselineYear": 2009
+  },
+  "P000597": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2009
+  },
+  "P000603": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "P000604": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2012
+  },
+  "P000605": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "P000607": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "P000608": {
+    "current": 15000000,
+    "baseline": 5000000,
+    "baselineYear": 2012
+  },
+  "P000609": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2015
+  },
+  "P000610": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2015
+  },
+  "P000613": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2016
+  },
+  "P000614": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "P000615": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "P000616": {
+    "current": 50000000,
+    "baseline": 20000000,
+    "baselineYear": 2018
+  },
+  "P000617": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "P000618": {
+    "current": 500000,
+    "baseline": 50000,
+    "baselineYear": 2018
+  },
+  "P000619": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "P000620": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "P000621": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "P000622": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "P000623": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "P000624": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "P000625": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "Q000023": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2009
+  },
+  "R000122": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1991
+  },
+  "R000305": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "R000306": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "R000307": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "R000308": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "R000309": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "R000310": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "R000311": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "R000395": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 1980
+  },
+  "R000575": {
+    "current": 1500000,
+    "baseline": 300000,
+    "baselineYear": 2003
+  },
+  "R000579": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "R000584": {
+    "current": 40000000,
+    "baseline": 20000000,
+    "baselineYear": 2008
+  },
+  "R000585": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "R000595": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2010
+  },
+  "R000599": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2012
+  },
+  "R000600": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2015
+  },
+  "R000603": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2015
+  },
+  "R000605": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2017
+  },
+  "R000606": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2016
+  },
+  "R000608": {
+    "current": 15000000,
+    "baseline": 8000000,
+    "baselineYear": 2018
+  },
+  "R000609": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2017
+  },
+  "R000610": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "R000612": {
+    "current": 15000000,
+    "baseline": 5000000,
+    "baselineYear": 2018
+  },
+  "R000614": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "R000615": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "R000617": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "R000618": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "R000619": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2024
+  },
+  "R000620": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "R000621": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "R000622": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "S000033": {
+    "current": 3000000,
+    "baseline": 500000,
+    "baselineYear": 1991
+  },
+  "S000148": {
+    "current": 1200000,
+    "baseline": 200000,
+    "baselineYear": 1999
+  },
+  "S000168": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "S000185": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2004
+  },
+  "S000250": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2004
+  },
+  "S000344": {
+    "current": 10000000,
+    "baseline": 1000000,
+    "baselineYear": 2004
+  },
+  "S000510": {
+    "current": 1500000,
+    "baseline": 300000,
+    "baselineYear": 1997
+  },
+  "S000522": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1980
+  },
+  "S000929": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "S001145": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 1999
+  },
+  "S001148": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1999
+  },
+  "S001150": {
+    "current": 2000000,
+    "baseline": 500000,
+    "baselineYear": 2000
+  },
+  "S001156": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2002
+  },
+  "S001157": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2004
+  },
+  "S001159": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "S001168": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2007
+  },
+  "S001172": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2007
+  },
+  "S001176": {
+    "current": 3000000,
+    "baseline": 500000,
+    "baselineYear": 2008
+  },
+  "S001177": {
+    "current": 500000,
+    "baseline": 100000,
+    "baselineYear": 2009
+  },
+  "S001181": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2009
+  },
+  "S001183": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "S001184": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "S001185": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "S001188": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2010
+  },
+  "S001189": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "S001190": {
+    "current": 35000000,
+    "baseline": 15000000,
+    "baselineYear": 2012
+  },
+  "S001191": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "S001192": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "S001193": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "S001194": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2012
+  },
+  "S001195": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2012
+  },
+  "S001196": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2015
+  },
+  "S001198": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2015
+  },
+  "S001199": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2016
+  },
+  "S001200": {
+    "current": 500000,
+    "baseline": 50000,
+    "baselineYear": 2016
+  },
+  "S001201": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2017
+  },
+  "S001203": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "S001205": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "S001207": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2018
+  },
+  "S001208": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2018
+  },
+  "S001209": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "S001210": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "S001211": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "S001212": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "S001213": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "S001214": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "S001215": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2016
+  },
+  "S001216": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "S001217": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "S001218": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "S001219": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "S001220": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "S001221": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "S001222": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "S001223": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "S001224": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "S001225": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "S001226": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "S001227": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2023
+  },
+  "S001228": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "S001229": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "S001230": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "S001231": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "S001232": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2025
+  },
+  "T000165": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "T000193": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2004
+  },
+  "T000250": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1997
+  },
+  "T000278": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "T000460": {
+    "current": 15000000,
+    "baseline": 3000000,
+    "baselineYear": 1999
+  },
+  "T000463": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2003
+  },
+  "T000464": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2007
+  },
+  "T000467": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2009
+  },
+  "T000468": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2009
+  },
+  "T000469": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2009
+  },
+  "T000472": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "T000474": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2015
+  },
+  "T000476": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2015
+  },
+  "T000478": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2017
+  },
+  "T000480": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2019
+  },
+  "T000481": {
+    "current": 500000,
+    "baseline": 50000,
+    "baselineYear": 2018
+  },
+  "T000482": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "T000483": {
+    "current": 300000000,
+    "baseline": 250000000,
+    "baselineYear": 2018
+  },
+  "T000485": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "T000486": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "T000487": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "T000488": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "T000489": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "T000490": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "T000491": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "T000492": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "U000040": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "V000042": {
+    "current": 10000000,
+    "baseline": 5000000,
+    "baselineYear": 2022
+  },
+  "V000081": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1993
+  },
+  "V000128": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2004
+  },
+  "V000129": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "V000130": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "V000131": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "V000133": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "V000134": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "V000135": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "V000136": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "V000137": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "V000138": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "V000139": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "V000140": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "W000187": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1990
+  },
+  "W000437": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 1995
+  },
+  "W000779": {
+    "current": 10000000,
+    "baseline": 2000000,
+    "baselineYear": 1981
+  },
+  "W000788": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "W000790": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2021
+  },
+  "W000795": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2004
+  },
+  "W000797": {
+    "current": 3000000,
+    "baseline": 500000,
+    "baselineYear": 2004
+  },
+  "W000798": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2007
+  },
+  "W000800": {
+    "current": 5000000,
+    "baseline": 1000000,
+    "baselineYear": 2007
+  },
+  "W000802": {
+    "current": 15000000,
+    "baseline": 5000000,
+    "baselineYear": 2007
+  },
+  "W000804": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2007
+  },
+  "W000805": {
+    "current": 215000000,
+    "baseline": 150000000,
+    "baselineYear": 2008
+  },
+  "W000806": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "W000808": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "W000809": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2011
+  },
+  "W000812": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "W000814": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "W000815": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2013
+  },
+  "W000816": {
+    "current": 25000000,
+    "baseline": 10000000,
+    "baselineYear": 2011
+  },
+  "W000817": {
+    "current": 12000000,
+    "baseline": 4000000,
+    "baselineYear": 2012
+  },
+  "W000821": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2014
+  },
+  "W000822": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2014
+  },
+  "W000823": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "W000824": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "W000825": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2018
+  },
+  "W000826": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "W000827": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "W000828": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "W000829": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "W000830": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "W000831": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "W000832": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "Y000064": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2017
+  },
+  "Y000065": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "Y000066": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "Y000067": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "Y000068": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "Y000069": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "Z000017": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "Z000018": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2020
+  },
+  "Z000019": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "Z000020": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "Z000021": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "Z000022": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  },
+  "Z000023": {
+    "current": 1000000,
+    "baseline": 200000,
+    "baselineYear": 2022
+  }
+}
